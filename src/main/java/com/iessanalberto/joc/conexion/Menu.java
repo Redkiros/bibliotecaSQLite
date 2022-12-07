@@ -1,7 +1,7 @@
 package com.iessanalberto.joc.conexion;
 
-import com.iessanalberto.joc.biblioteca.CrearCentro;
-import com.iessanalberto.joc.biblioteca.ManejoBiblioteca;
+import com.iessanalberto.joc.profesores.CrearCentro;
+import com.iessanalberto.joc.profesores.ManejoBiblioteca;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.iessanalberto.joc.biblioteca;
+package com.iessanalberto.joc.profesores;
 
 import com.iessanalberto.joc.conexion.Conexion;
 

@@ -1,4 +1,4 @@
-package com.iessanalberto.joc.biblioteca;
+package com.iessanalberto.joc.profesores;
 
 public class Profesores {
     int codigoProfesor;

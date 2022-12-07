@@ -2,7 +2,7 @@ package com.iessanalberto.joc.conexion;
 
 // clase principal que contiene el main
 
-import com.iessanalberto.joc.biblioteca.ManejoBiblioteca;
+import com.iessanalberto.joc.profesores.ManejoBiblioteca;
 
 import java.sql.SQLException;
 
@@ -12,6 +12,7 @@ public class Aplicacion {
         ManejoBiblioteca.crearPofesores();
         ManejoBiblioteca.crearCentros();
         ManejoBiblioteca.crearAsignaturas();
+        ManejoBiblioteca.insertarProfesoresTeclado();
 
 //        Consulta.verTablas();
 //        Consulta.verTodoLibros();

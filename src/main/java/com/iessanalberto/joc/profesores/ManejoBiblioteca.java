@@ -1,10 +1,9 @@
-package com.iessanalberto.joc.biblioteca;
+package com.iessanalberto.joc.profesores;
 
 import com.iessanalberto.joc.conexion.Conexion;
 import com.iessanalberto.joc.conexion.ManejoTabla;
 
 import java.sql.Connection;
-import java.sql.Date;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.ArrayList;
